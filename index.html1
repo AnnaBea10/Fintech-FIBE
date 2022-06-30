@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <meta name="description" content="Um aplicativo de investimentos e controle de finanças">
+    <title>FIBE - Finance for beginners</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<body>
+    <header class="cabecalho">
+        <nav class="cabecalho-menu">
+            <img class="cabecalho-logo" src="logo.svg" alt="Logo FIBE">
+            <form action=""></form>
+            <a href="#">Home</a>
+            <a href="#">Sobre</a>
+            <a href="#">Login</a>
+            <input type="submit" value="Cadastre-se">
+        </nav>
+    </header>
+
+    <main>
+        <section class="conteudo-principal">
+            <h1 class="conteudo-principal-titulo"><strong>Plataforma que irá te ajudar a se organizar financeiramente!</strong></h1>
+            <h2 class="conteudo-principal-subtitulo"><strong>O primeiro passo você já deu, vamos juntos nessa jornada!</strong></h2>
+        </section>
+        <section class="conteudo-secundario">
+            <div class="coluna">
+            <p class="conteudo-secundario-paragrafo"><strong>Descubra seu perfil de investidor.</strong> </p>
+            <img class="conteudo-secundario-icon" src="icon 3.svg">
+            <p class="conteudo-secundario-paragrafo"><strong>Receba notícias do mercado financeiro.</strong></p>
+            <img class="conteudo-secundario-icon" src="icon 2.svg">
+            <p class="conteudo-secundario-paragrafo"><strong>Sugestão dos melhores investimentos.</strong></p>
+            <img class="conteudo-secundario-icon" src="icon 1.svg">
+            </div>
+
+            <img class="conteudo-secundario-imagem" src="Finance app-bro 1.svg">
+        </section>
+    </main>
+</body>
+</html>
